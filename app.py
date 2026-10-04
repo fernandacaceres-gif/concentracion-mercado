@@ -56,15 +56,6 @@ st.write(
 )
 
 
-st.caption(
-    """
-    Nota: se debe verificar con el profesor la
-    definición exacta del Índice de Dominancia y
-    los umbrales teóricos utilizados para clasificar
-    cada indicador.
-    """
-)
-
 
 # ==========================================================
 # 1. CONFIGURACIÓN
